@@ -2,7 +2,7 @@
 
 An AI-powered Diabetes Prediction System built using Machine Learning and Streamlit.
 
-Working Link: https://diabetes-predictor-ai.streamlit.app/
+Working Link: https://smart-diabetes-risk-predictor.streamlit.app/
 
 ## Features
 
